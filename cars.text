@@ -1,0 +1,14 @@
+cars
+
+id - INT
+brand - VARCHAR(80) - NOT NULL
+model - VARCHAR(80) -NOT NULL
+year - YEAR - NOT NULL
+km - SMALLINT - NOT NULL
+doors - NOT NULL
+nationality - VARCHAR(20) - NULL
+owners - TINYINT - NOTNULL
+engine displacement - SMALLINT - NOT NULL
+horsepower - SMALLINT - NOT NULL
+plate - VARCHAR(20)
+price - DECIMAL (9,2)
